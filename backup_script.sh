@@ -8,8 +8,8 @@ backup_destination="user@remote-server:/path/to/destination/directory"	# To modi
 backup_name="backup_$(date +'%Y-%m-%d-%H:%M')"  # Backup folder name with time
 
 	#Example :
-backup_source="/home/oem/Downloads" 				# Source destination to be backed up
-backup_destination="mike@10.0.0.212:/home/mike/backup" 	# Destination directory for backups
+#backup_source="/home/oem/Downloads" 				# Source destination to be backed up
+#backup_destination="mike@10.0.0.212:/home/mike/backup" 	# Destination directory for backups
 
 
 # Function to perform the backup
