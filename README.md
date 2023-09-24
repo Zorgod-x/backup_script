@@ -48,7 +48,7 @@ output on client :
 
 output on server :
 
-![backup_server](https://github.com/Zorgod-x/backup_script/assets/99272119/b2139c4e-c284-490f-8ee5-d061731508e9)
+![backup_server](https://github.com/Zorgod-x/backup_script/assets/99272119/bcdd93f4-3869-4a96-96d6-d2df09d837fe)
 
 
 ##FAQ;
