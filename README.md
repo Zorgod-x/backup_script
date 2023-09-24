@@ -44,11 +44,11 @@ output on client :
 
 ![backup1](https://github.com/Zorgod-x/backup_script/assets/99272119/83607fe2-378c-4f33-ac5d-2d5000723b7b)
 
-![backup2](https://github.com/Zorgod-x/backup_script/assets/99272119/24ae712d-dbff-4b1c-8593-5a2f16962dc2)
+![succes](https://github.com/Zorgod-x/backup_script/assets/99272119/b9401747-ce88-43c1-8b72-328ed3bb126c)
 
 output on server :
 
-![succes](https://github.com/Zorgod-x/backup_script/assets/99272119/b9401747-ce88-43c1-8b72-328ed3bb126c)
+![backup_server](https://github.com/Zorgod-x/backup_script/assets/99272119/b2139c4e-c284-490f-8ee5-d061731508e9)
 
 
 ##FAQ;
