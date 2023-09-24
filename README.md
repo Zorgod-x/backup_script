@@ -2,8 +2,8 @@
 Small script that automates the process of taking backups from a local machine to a remote server using rsync.
 
 The script :
----
-#!/bin/bash
+
+[Uploading #!/bin/bash
 # Automating backups by Nikolas Fedor
 # Created 9/18/2023
 
@@ -38,13 +38,17 @@ perform_backup() {
 # Main script execution
 perform_backup
 
----
+backup_script.sh…]()
+
+
 output on client :
+
 ![backup1](https://github.com/Zorgod-x/backup_script/assets/99272119/83607fe2-378c-4f33-ac5d-2d5000723b7b)
 
 ![backup2](https://github.com/Zorgod-x/backup_script/assets/99272119/24ae712d-dbff-4b1c-8593-5a2f16962dc2)
 
-output on server:
+output on server :
+
 ![succes](https://github.com/Zorgod-x/backup_script/assets/99272119/b9401747-ce88-43c1-8b72-328ed3bb126c)
 
 
